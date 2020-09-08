@@ -1,0 +1,59 @@
+{
+    "name": "g0x209cextensions",
+    "displayName": "G0x209CExtensions",
+    "description": "These are the extensions I use on the daily",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "endormi.2077-theme",
+        "akamu.vscode-theme-onelight",
+        "formulahendry.auto-close-tag",
+        "teabyii.ayu",
+        "pshershov.blueberry-banana",
+        "uloco.theme-bluloco-light",
+        "coenraads.bracket-pair-colorizer-2",
+        "eryouhao.brackets-light-pro",
+        "clerian.cyberdyne20xx",
+        "max-ss.cyberpunk",
+        "msjsdiag.debugger-for-chrome",
+        "mikestead.dotenv",
+        "vitaliy.espresso",
+        "hyzeta.vscode-theme-github-light",
+        "thenikso.github-plus-theme",
+        "helgardrichard.helium-icon-theme",
+        "bubersson.theme-hop-light",
+        "solarliner.linux-themes",
+        "objrejla.netbeans-light-theme",
+        "sh4dow.theme-notepadplusplusremixed",
+        "ibm.output-colorizer",
+        "tinkertrain.theme-panda",
+        "onecrayon.theme-quietlight-vsc",
+        "ms-vscode-remote.remote-wsl",
+        "ahmadawais.shades-of-purple",
+        "markthomasmiller.sorcerer",
+        "xaver.theme-ysgrifennwr",
+        "atishay-jain.all-autocomplete",
+        "hookyqr.beautify",
+        "mhutchie.git-graph",
+        "github.vscode-pull-request-github",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "cmstead.jsrefactor",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "lostintangent.vlsl-whiteboard",
+        "gruntfuggly.todo-tree",
+        "visualstudioexptteam.vscodeintellicode",
+        "tomoki1207.pdf",
+        "thegeoffstevens.best-light-themes-pack"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rebitteration/g0x209cessentials.git"
+    }
+}
