@@ -2,7 +2,7 @@
     "name": "g0x209cextensions",
     "displayName": "G0x209CExtensions",
     "description": "These are the extensions I use on the daily",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -51,7 +51,8 @@
         "gruntfuggly.todo-tree",
         "visualstudioexptteam.vscodeintellicode",
         "tomoki1207.pdf",
-        "thegeoffstevens.best-light-themes-pack"
+        "thegeoffstevens.best-light-themes-pack",
+        "theumletteam.umlet"
     ],
     "repository": {
         "type": "git",
